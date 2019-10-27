@@ -1,5 +1,255 @@
 [
     {
+        "title":"Super Paper Mario",
+        "rating":"6.5/10",
+        "image":"https://i.imgur.com/yjQNc0t.jpg"
+    },
+    {
+        "title":"Alan Wake",
+        "rating":"9/10",
+        "image":"https://i.imgur.com/9Uvz2aY.jpg"
+    },
+    {
+        "title":"Bioshock",
+        "rating":"7/10",
+        "image":"https://i.imgur.com/WfNK1Fg.jpg"
+    },
+    {
+        "title":"Layers Of Fear",
+        "rating":"4/10",
+        "image":"https://i.imgur.com/vZygOU7.png"
+    },
+    {
+        "title":"Lucius",
+        "rating":"8.5/10",
+        "image":"https://i.imgur.com/tfhOKas.png"
+    },
+    {
+        "title":"Amnesia: A Machine For Pigs",
+        "rating":"10/10",
+        "image":"https://i.imgur.com/9aAbtG6.jpg"
+    },
+    {
+        "title":"Dead Space 2",
+        "rating":"7.5/10",
+        "image":"https://i.imgur.com/jWzZ68e.jpg"
+    },
+    {
+        "title":"Undertale",
+        "rating":"4.5/10",
+        "image":"https://i.imgur.com/gJVm8u9.jpg"
+    },
+    {
+        "title":"Tomb Raider",
+        "rating":"6/10",
+        "image":"https://i.imgur.com/fcExVtb.jpg"
+    },
+    {
+        "title":"Far Cry 3 Blood Dragon",
+        "rating":"8/10",
+        "image":"https://i.imgur.com/GJhk6XD.jpg"
+    },
+    {
+        "title":"OneShot Solstice",
+        "rating":"7.5/10",
+        "image":"https://i.imgur.com/ottCyQ6.jpg"
+    },
+    {
+        "title":"OneShot",
+        "rating":"10/10",
+        "image":"https://i.imgur.com/v4kMoWs.png"
+    },
+    {
+        "title":"Celeste",
+        "rating":"9/10",
+        "image":"https://i.imgur.com/xGBqkcu.jpg"
+    },
+    {
+        "title":"Visage",
+        "rating":"9.5/10",
+        "image":"https://i.imgur.com/GyjX885.jpg"
+    },
+    {
+        "title":"Downfall",
+        "rating":"7.5/10",
+        "image":"https://i.imgur.com/6WYKFUu.png"
+    },
+    {
+        "title":"Devil May Cry 4",
+        "rating":"7.5/10",
+        "image":"https://i.imgur.com/QRJDsNy.jpg"
+    },
+    {
+        "title":"Devil May Cry 3",
+        "rating":"5.5/10",
+        "image":"https://i.imgur.com/NaJTVqt.jpg"
+    },
+    {
+        "title":"Devil May Cry 2",
+        "rating":"3/10",
+        "image":"https://i.imgur.com/zZCImfw.jpg"
+    },
+    {
+        "title":"Devil May Cry 1",
+        "rating":"6/10",
+        "image":"https://i.imgur.com/evpFIiJ.jpg"
+    },
+    {
+        "title":"Strider",
+        "rating":"4.5/10",
+        "image":"https://i.imgur.com/rLGDbGy.jpg"
+    },
+    {
+        "title":"To The Moon",
+        "rating":"8.5/10",
+        "image":"https://i.imgur.com/mKp4uRT.jpg"
+    },
+    {
+        "title":"Far Cry 5",
+        "rating":"10/10",
+        "image":"https://i.imgur.com/qD6OrSk.jpg"
+    },
+    {
+        "title":"Ori And The Blind Forest",
+        "rating":"10/10",
+        "image":"https://i.imgur.com/GPRps0C.jpg"
+    },
+    {
+        "title":"Portal 2",
+        "rating":"10/10",
+        "image":"https://i.imgur.com/0PHN9Ob.jpg"
+    },
+    {
+        "title":"Dead Space",
+        "rating":"8.5/10",
+        "image":"https://i.imgur.com/sBrJ2Ww.jpg"
+    },
+    {
+        "title":"Resident Evil 7",
+        "rating":"7/10",
+        "image":"https://i.imgur.com/fBRI5nJ.jpg"
+    },
+    {
+        "title":"The Cat Lady",
+        "rating":"8/10",
+        "image":"https://i.imgur.com/hiZRvpb.jpg"
+    },
+    {
+        "title":"Portal",
+        "rating":"6/10",
+        "image":"https://i.imgur.com/lTF44D3.jpg"
+    },
+    {
+        "title":"Mad Father",
+        "rating":"9/10",
+        "image":"https://i.imgur.com/Z1TyXZm.jpg"
+    },
+    {
+        "title":"Far Cry",
+        "rating":"Shitty/10",
+        "image":"https://i.imgur.com/eKdDCe5.png"
+    },
+    {
+        "title":"The Crooked Man",
+        "rating":"8/10",
+        "image":"https://i.imgur.com/EQFNExB.jpg"
+    },
+    {
+        "title":"Ib",
+        "rating":"7/10",
+        "image":"https://i.imgur.com/Xa6LuTQ.jpg"
+    },
+    {
+        "title":"Outlast 2",
+        "rating":"2/10",
+        "image":"https://i.imgur.com/9hPuS5G.jpg"
+    },
+    {
+        "title":"IMSCARED",
+        "rating":"6/10",
+        "image":"https://i.imgur.com/Z9kgsw4.jpg"
+    },
+    {
+        "title":"SOMA",
+        "rating":"9.5/10",
+        "image":"https://i.imgur.com/FrNngBY.jpg"
+    },
+    {
+        "title":"Mark After Dark",
+        "rating":"9/10",
+        "image":"https://i.imgur.com/ufsIadG.png"
+    },
+    {
+        "title":"Blank Dream",
+        "rating":"9/10",
+        "image":"https://i.imgur.com/TUH7Xac.jpg"
+    },
+    {
+        "title":"Desert Ride Coaster",
+        "rating":"Vomit/10",
+        "image":"https://i.imgur.com/p532K8L.jpg"
+    },
+     {
+        "title":"The Visitor",
+        "rating":"Spooky/10",
+        "image":"https://i.imgur.com/djXd1Bi.jpg"
+    },
+    {
+        "title":"Rick and Morty: Virtual Rick-ality",
+        "rating":"8/10",
+        "image":"https://i.imgur.com/V03sLQm.jpg"
+    },
+    {
+        "title":"Paranormal Activity: The Lost Soul",
+        "rating":"5/10",
+        "image":"https://i.imgur.com/R58D7tx.jpg"
+    },
+    {
+        "title":"DmC Devil May Cry",
+        "rating":"9/10",
+        "image":"https://i.imgur.com/J0c4ngc.png"
+    },
+    {
+        "title":"South Park The Stick Of Truth",
+        "rating":"6.5/10",
+        "image":"https://i.imgur.com/l3oJftR.jpg"
+    },
+     {
+        "title":"The Witch's House",
+        "rating":"6/10",
+        "image":"https://i.imgur.com/tcWe4oN.jpg"
+    },
+    {
+        "title":"Spooky's Jump Scare Mansion",
+        "rating":"5/10",
+        "image":"https://i.imgur.com/RaaAeMf.png"
+    },
+    {
+        "title":"Amnesia The Dark Descent",
+        "rating":"5/10",
+        "image":"https://i.imgur.com/41jgyvZ.png"
+    },
+    {
+        "title":"Outlast",
+        "rating":"8/10",
+        "image":"https://i.imgur.com/QQac0kh.jpg"
+    },
+    {
+        "title":"Dark Souls",
+        "rating":"7.5/10",
+        "image":"https://i.imgur.com/wSkxKsx.jpg"
+    },
+    {
+        "title":"Detention",
+        "rating":"7/10",
+        "image":"https://i.imgur.com/uGEgVY0.jpg"
+    },
+    {
+        "title":"Valley",
+        "rating":"8/10",
+        "image":"https://i.imgur.com/Y2MvxYk.jpg"
+    },
+    {
         "title":"Tomato Way",
         "rating":"100/10",
         "image":"https://i.imgur.com/DZEbY6C.jpg"
