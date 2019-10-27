@@ -1,7 +1,7 @@
 # colbyemann.github.io
 Welcome to the Data Bucket
 
-##Updating Brystreams Ratings
+## Updating Brystreams Ratings
 1.	Find image and upload to imgur.com, acquire link via right click “copy image address”
 2.	Navigate to https://github.com/colbyemann/colbyemann.github.io -> data -> brystreams.json
 3.	Click Edit file
