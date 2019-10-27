@@ -1,5 +1,10 @@
 [
     {
+        "title":"Tomato Way",
+        "rating":"100/10",
+        "image":"https://i.imgur.com/DZEbY6C.jpg"
+    },
+    {
         "title":"Doki Doki Literature Club",
         "rating":"4.5/10",
         "image":"https://i.imgur.com/bDPptCu.png"
