@@ -15,4 +15,3 @@ Welcome to the Data Bucket
     },
 ```
 5.	Commit Changes
-6.	Paste colbyemann.github.io/data/brystreams.json in browser to update cache 
