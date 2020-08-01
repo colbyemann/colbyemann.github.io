@@ -11,7 +11,8 @@ Welcome to the Data Bucket
     {
         "title":"Super Paper Mario",
         "rating":"6.5/10",
-        "image":"https://i.imgur.com/yjQNc0t.jpg"
+        "image":"https://i.imgur.com/yjQNc0t.jpg",
+        "review":"words words words"
     },
 ```
 5.	Commit Changes
