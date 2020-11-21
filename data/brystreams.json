@@ -1,5 +1,17 @@
 [
     {
+        "title":"Amnesia The Dark Descent",
+        "rating":"5/10",
+        "image":"https://i.imgur.com/41jgyvZ.png",
+        "review":"Props for being creative here. Amnesia took the horror genre and gave it that surreal feeling while also holding you mentally captive in a mansion with a potato sack monster with claws, that tears your face off. The Jump scare factor was pretty high and almost somewhat reliant for the game to be worth playing, but the suspense was pretty intense almost the whole time you play. The puzzles were a super neat touch as well. Downsides were that all in all it was a pretty short game. The animations were a bit wonky and the ending was pretty disappointing, much like many other horror games, but it wasn't a bad playthrough and I would recommend it if you are into horror, or want to play it for a crowd of people so they can watch you jump at every little movement."
+    },    
+    {
+        "title":"Amnesia: A Machine For Pigs",
+        "rating":"10/10",
+        "image":"https://i.imgur.com/9aAbtG6.jpg",
+        "review":""
+    },
+    {
         "title":"Amnesia: Rebirth",
         "rating":"7/10",
         "image":"https://i.imgur.com/igBhud2.jpg",
@@ -12,23 +24,23 @@
         "review":""
     },
     {
-        "title":"Lorelai",
-        "rating":"8.5/10",
-        "image":"https://i.imgur.com/icaBXs6.jpg",
-        "review":""
-    },
-    {
         "title":"Misao",
         "rating":"6/10",
         "image":"https://i.imgur.com/gKlBRNH.jpg",
         "review":""
     },
     {
-        "title":"Far Cry: New Dawn",
-        "rating":"6/10",
-        "image":"https://i.imgur.com/p83mc2c.jpg",
+        "title":"Far Cry",
+        "rating":"Shitty/10",
+        "image":"https://i.imgur.com/eKdDCe5.png",
         "review":""
-    },
+    },    
+    {
+        "title":"Far Cry 3",
+        "rating":"10/10",
+        "image":"https://i.imgur.com/PdptSZG.jpg",
+        "review":""
+    },    
     {
         "title":"Far Cry Primal",
         "rating":"5.5/10",
@@ -36,11 +48,17 @@
         "review":""
     },
     {
-        "title":"Far Cry 3",
+        "title":"Far Cry 5",
         "rating":"10/10",
-        "image":"https://i.imgur.com/PdptSZG.jpg",
+        "image":"https://i.imgur.com/qD6OrSk.jpg",
         "review":""
     },
+    {
+        "title":"Far Cry: New Dawn",
+        "rating":"6/10",
+        "image":"https://i.imgur.com/p83mc2c.jpg",
+        "review":""
+    },    
     {
         "title":"Blair Witch",
         "rating":"9.5/10",
@@ -78,18 +96,6 @@
         "review":""
     },
     {
-        "title":"Amnesia: A Machine For Pigs",
-        "rating":"10/10",
-        "image":"https://i.imgur.com/9aAbtG6.jpg",
-        "review":""
-    },
-    {
-        "title":"Dead Space 2",
-        "rating":"7.5/10",
-        "image":"https://i.imgur.com/jWzZ68e.jpg",
-        "review":""
-    },
-    {
         "title":"Undertale",
         "rating":"4.5/10",
         "image":"https://i.imgur.com/gJVm8u9.jpg",
@@ -108,17 +114,17 @@
         "review":""
     },
     {
-        "title":"OneShot Solstice",
-        "rating":"7.5/10",
-        "image":"https://i.imgur.com/ottCyQ6.jpg",
-        "review":""
-    },
-    {
         "title":"OneShot",
         "rating":"10/10",
         "image":"https://i.imgur.com/v4kMoWs.png",
         "review":""
     },
+    {
+        "title":"OneShot: Solstice",
+        "rating":"7.5/10",
+        "image":"https://i.imgur.com/ottCyQ6.jpg",
+        "review":""
+    },    
     {
         "title":"Celeste",
         "rating":"9/10",
@@ -132,21 +138,27 @@
         "review":""
     },
     {
+        "title":"The Cat Lady",
+        "rating":"8/10",
+        "image":"https://i.imgur.com/hiZRvpb.jpg",
+        "review":""
+    },    
+    {
         "title":"Downfall",
         "rating":"7.5/10",
         "image":"https://i.imgur.com/6WYKFUu.png",
         "review":""
     },
     {
-        "title":"Devil May Cry 4",
-        "rating":"7.5/10",
-        "image":"https://i.imgur.com/QRJDsNy.jpg",
+        "title":"Lorelai",
+        "rating":"8.5/10",
+        "image":"https://i.imgur.com/icaBXs6.jpg",
         "review":""
-    },
+    },    
     {
-        "title":"Devil May Cry 3",
-        "rating":"5.5/10",
-        "image":"https://i.imgur.com/NaJTVqt.jpg",
+        "title":"Devil May Cry 1",
+        "rating":"6/10",
+        "image":"https://i.imgur.com/evpFIiJ.jpg",
         "review":""
     },
     {
@@ -156,10 +168,22 @@
         "review":""
     },
     {
-        "title":"Devil May Cry 1",
-        "rating":"6/10",
-        "image":"https://i.imgur.com/evpFIiJ.jpg",
+        "title":"Devil May Cry 3",
+        "rating":"5.5/10",
+        "image":"https://i.imgur.com/NaJTVqt.jpg",
         "review":""
+    },   
+    {
+        "title":"Devil May Cry 4",
+        "rating":"7.5/10",
+        "image":"https://i.imgur.com/QRJDsNy.jpg",
+        "review":""
+    },
+    {
+        "title":"DmC Devil May Cry",
+        "rating":"9/10",
+        "image":"https://i.imgur.com/J0c4ngc.png",
+        "review":"Charisma? Oh you mean DmC. Absolute bombshell of a game. Graphics were on point, the combat was amazing, it was challenging to a point that you forgot you were in a storyline, grind out a boss for like 45 minutes, beat him, lower your heart’s bpm from 800, and carry on the story, and the flash backs to the backstory was incredible to watch. The weapon switching was a really nice touch, including the tether, axe and scythe mechanics, and how they worked together to a degree. I fell in love with this game almost immediately, and I’m kind of disappointed that I played it first in the series, not knowing that the order actually mattered. Still a fantastic game, though. I couldn’t quite call it perfect, due to some bugs/crashing/render issues etc. so I think the strong 9/10 holds its ground."
     },
     {
         "title":"Strider",
@@ -174,15 +198,15 @@
         "review":""
     },
     {
-        "title":"Far Cry 5",
-        "rating":"10/10",
-        "image":"https://i.imgur.com/qD6OrSk.jpg",
-        "review":""
-    },
-    {
         "title":"Ori And The Blind Forest",
         "rating":"10/10",
         "image":"https://i.imgur.com/GPRps0C.jpg",
+        "review":""
+    },
+    {
+        "title":"Portal",
+        "rating":"6/10",
+        "image":"https://i.imgur.com/lTF44D3.jpg",
         "review":""
     },
     {
@@ -198,33 +222,21 @@
         "review":""
     },
     {
+        "title":"Dead Space 2",
+        "rating":"7.5/10",
+        "image":"https://i.imgur.com/jWzZ68e.jpg",
+        "review":""
+    },
+    {
         "title":"Resident Evil 7",
         "rating":"7/10",
         "image":"https://i.imgur.com/fBRI5nJ.jpg",
         "review":""
     },
     {
-        "title":"The Cat Lady",
-        "rating":"8/10",
-        "image":"https://i.imgur.com/hiZRvpb.jpg",
-        "review":""
-    },
-    {
-        "title":"Portal",
-        "rating":"6/10",
-        "image":"https://i.imgur.com/lTF44D3.jpg",
-        "review":""
-    },
-    {
         "title":"Mad Father",
         "rating":"9/10",
         "image":"https://i.imgur.com/Z1TyXZm.jpg",
-        "review":""
-    },
-    {
-        "title":"Far Cry",
-        "rating":"Shitty/10",
-        "image":"https://i.imgur.com/eKdDCe5.png",
         "review":""
     },
     {
@@ -239,6 +251,12 @@
         "image":"https://i.imgur.com/Xa6LuTQ.jpg",
         "review":"This was actually a blast! I really liked playing through this game and I had a lot of fun doing it. Granted, the graphics were all RPG maker, that didn't stop the story or the spooky vibe from emanating full force through this game. Being in a museum at night, on its own, sounds scary. Adding the elements that this character finds and comes across, would make it an absolute nightmare. The puzzles were incredibly intuitive, and make the game challenging, but without stopping the flow and progression of the game. Super SUPER fun to play through and I would do it again in a heartbeat. I guess the reason that I didn't give it a higher score was the pacing, the graphics (albeit it doesn't take good graphics to make a good game, but it definitely helps) and the fact that I feel like it might have dragged a bit of ass coming to the ending, that waaaasn't all that interesting, and a little cliché. That aside, it was incredibly fun and I look forward to playing it for a second time."
     },
+    {
+        "title":"Outlast",
+        "rating":"8/10",
+        "image":"https://i.imgur.com/QQac0kh.jpg",
+        "review":"Imagine you are in an asylum. Now imagine in said asylum, all the patients were abused and forced to go through medical testing that was completely involuntary. How would you feel being in the middle of that? This game captures that and adds suspense and horror to something that is already scary. Running through this place that has a million and one hiding spots and all you have is a camera to record all of the things that are going on, with no way to retaliate or fight back. Giants with long chains wrapped around their body chasing you around, skinny zombie-like creatures in the sewers that their soul purpose is to take you down. Everything in this game makes you think twice about everything you do. “Will this door trigger something?”, “Is there someone waiting to jump me in the next room?” and keeps you on your toes the entire game. I really enjoyed the aesthetic of the game, as well. Something about that kind of setting is really unsettling especially when you are totally unarmed. I think it’s only downfall was the ending, really. I have been told though that the DLC is what wraps it all together and ends the story better. I mean I get that, but at the same time, it shouldn't take a DLC or a “Second try” to make up for the ending. All in all though, pound for pound this game is a classic, and chances are, people will be playing it for a long time."
+    },    
     {
         "title":"Outlast 2",
         "rating":"2/10",
@@ -294,12 +312,6 @@
         "review":"PA:LTS played into the biggest thing it could. Immersing you into this terrifying hellscape of a mansion. Walk up to a house and carnage ensues. Children scare you, paintings scare you, book shelves scare you, literally nothing is safe. I think I was scared by a candle at one point. The “story” is kind of all over the place, but at the same time I feel that it’s main goal was to just scare the Jesus into you. Yes, into you. Floors falling away, giant smoke creatures, hidden entrances, this game has it all. The reason it got the rating it did, is because it had no real depth. It  was just trying (and succeeding) to be scary, but not much else. Collect items, avoid monsters, get scared, cry, and get to the end. At the end of the game I didn't feel like I accomplished much, and that I just ran through a house getting scared. I’d recommend this to family and friends, as long as I could watch them play it."
     },
     {
-        "title":"DmC Devil May Cry",
-        "rating":"9/10",
-        "image":"https://i.imgur.com/J0c4ngc.png",
-        "review":"Charisma? Oh you mean DmC. Absolute bombshell of a game. Graphics were on point, the combat was amazing, it was challenging to a point that you forgot you were in a storyline, grind out a boss for like 45 minutes, beat him, lower your heart’s bpm from 800, and carry on the story, and the flash backs to the backstory was incredible to watch. The weapon switching was a really nice touch, including the tether, axe and scythe mechanics, and how they worked together to a degree. I fell in love with this game almost immediately, and I’m kind of disappointed that I played it first in the series, not knowing that the order actually mattered. Still a fantastic game, though. I couldn’t quite call it perfect, due to some bugs/crashing/render issues etc. so I think the strong 9/10 holds its ground."
-    },
-    {
         "title":"South Park The Stick Of Truth",
         "rating":"6.5/10",
         "image":"https://i.imgur.com/l3oJftR.jpg",
@@ -316,18 +328,6 @@
         "rating":"5/10",
         "image":"https://i.imgur.com/RaaAeMf.png",
         "review":"Well the game stayed true to its name. Jumpscares, randomly generated hallways, bosses that freak you out, the whole 9 yards. Being a 2D game and holding up rating-wise is pretty tough, let alone in the horror genre. It played well and had a lot of good aspects to it. The Easter eggs were a pretty nice touch too. All-in-all it was an okay game. As cool as it was, it got old pretty quick and by room 600 I just wanted the game to be over, which was a huge turn off, almost “expecting” the outcomes of getting to a specific numbered room. “Oh it's room 250, there should be a boss any second now” is not the type of anticipation a horror game should have, nor should it feel like it's dragging out way too long. Fun stream game, though I don't think I'd ever play through it again."
-    },
-    {
-        "title":"Amnesia The Dark Descent",
-        "rating":"5/10",
-        "image":"https://i.imgur.com/41jgyvZ.png",
-        "review":"Props for being creative here. Amnesia took the horror genre and gave it that surreal feeling while also holding you mentally captive in a mansion with a potato sack monster with claws, that tears your face off. The Jump scare factor was pretty high and almost somewhat reliant for the game to be worth playing, but the suspense was pretty intense almost the whole time you play. The puzzles were a super neat touch as well. Downsides were that all in all it was a pretty short game. The animations were a bit wonky and the ending was pretty disappointing, much like many other horror games, but it wasn't a bad playthrough and I would recommend it if you are into horror, or want to play it for a crowd of people so they can watch you jump at every little movement."
-    },
-    {
-        "title":"Outlast",
-        "rating":"8/10",
-        "image":"https://i.imgur.com/QQac0kh.jpg",
-        "review":"Imagine you are in an asylum. Now imagine in said asylum, all the patients were abused and forced to go through medical testing that was completely involuntary. How would you feel being in the middle of that? This game captures that and adds suspense and horror to something that is already scary. Running through this place that has a million and one hiding spots and all you have is a camera to record all of the things that are going on, with no way to retaliate or fight back. Giants with long chains wrapped around their body chasing you around, skinny zombie-like creatures in the sewers that their soul purpose is to take you down. Everything in this game makes you think twice about everything you do. “Will this door trigger something?”, “Is there someone waiting to jump me in the next room?” and keeps you on your toes the entire game. I really enjoyed the aesthetic of the game, as well. Something about that kind of setting is really unsettling especially when you are totally unarmed. I think it’s only downfall was the ending, really. I have been told though that the DLC is what wraps it all together and ends the story better. I mean I get that, but at the same time, it shouldn't take a DLC or a “Second try” to make up for the ending. All in all though, pound for pound this game is a classic, and chances are, people will be playing it for a long time."
     },
     {
         "title":"Dark Souls",
