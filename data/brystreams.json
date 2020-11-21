@@ -40,6 +40,12 @@
         "rating":"10/10",
         "image":"https://i.imgur.com/PdptSZG.jpg",
         "review":""
+    },
+    {
+        "title":"Far Cry 3 Blood Dragon",
+        "rating":"8/10",
+        "image":"https://i.imgur.com/GJhk6XD.jpg",
+        "review":""
     },    
     {
         "title":"Far Cry Primal",
@@ -105,12 +111,6 @@
         "title":"Tomb Raider",
         "rating":"6/10",
         "image":"https://i.imgur.com/fcExVtb.jpg",
-        "review":""
-    },
-    {
-        "title":"Far Cry 3 Blood Dragon",
-        "rating":"8/10",
-        "image":"https://i.imgur.com/GJhk6XD.jpg",
         "review":""
     },
     {
