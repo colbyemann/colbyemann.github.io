@@ -1,5 +1,47 @@
 [
     {
+        "title":"Amnesia: Rebirth",
+        "rating":"7/10",
+        "image":"https://i.imgur.com/igBhud2.jpg",
+        "review":""
+    },
+    {
+        "title":"Call Of Cthulhu",
+        "rating":"7/10",
+        "image":"https://i.imgur.com/SLvGAb3.jpg",
+        "review":""
+    },
+    {
+        "title":"Lorelai",
+        "rating":"8.5/10",
+        "image":"https://i.imgur.com/icaBXs6.jpg",
+        "review":""
+    },
+    {
+        "title":"Misao",
+        "rating":"6/10",
+        "image":"https://i.imgur.com/gKlBRNH.jpg",
+        "review":""
+    },
+    {
+        "title":"Far Cry: New Dawn",
+        "rating":"6/10",
+        "image":"https://i.imgur.com/p83mc2c.jpg",
+        "review":""
+    },
+    {
+        "title":"Far Cry Primal",
+        "rating":"5.5/10",
+        "image":"https://i.imgur.com/OeCY3nF.jpg",
+        "review":""
+    },
+    {
+        "title":"Far Cry 3",
+        "rating":"10/10",
+        "image":"https://i.imgur.com/PdptSZG.jpg",
+        "review":""
+    },
+    {
         "title":"Blair Witch",
         "rating":"9.5/10",
         "image":"https://i.imgur.com/RpAstkK.jpg",
