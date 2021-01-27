@@ -1,4 +1,23 @@
-[
+[    {
+        "title":"Pokémon: Let's Go, Pikachu!",
+        "rating":"8/10",
+        "image":"https://i.imgur.com/f7VoKfw.jpg"
+      },
+       {
+        "title":"Pokémon Shield",
+        "rating":"10/10",
+        "image":"https://i.imgur.com/ETkiICX.jpg"
+      },
+       {
+        "title":"Super Smash Bros Ultimate",
+        "rating":"10/10",
+        "image":"https://i.imgur.com/bQ9BJUO.jpg"
+      },
+       {
+        "title":"Super Mario Odyssey",
+        "rating":"7/10",
+        "image":"https://i.imgur.com/Kafeo3c.jpg"
+      },
       {
         "title":"Paper Mario The Origami King",
         "rating":"7/10",
