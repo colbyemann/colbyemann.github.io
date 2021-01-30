@@ -1,4 +1,50 @@
-[    {
+[
+           {
+        "title":"Catastranauts!",
+        "rating":"5/10",
+        "image":"https://i.imgur.com/5sZq4zj.jpg"
+      },
+          {
+        "title":"Tools Up!",
+        "rating":"3/10",
+        "image":"https://i.imgur.com/MfFP0FM.jpg"
+      },
+        {
+        "title":"Unrailed",
+        "rating":"9/10",
+        "image":"https://i.imgur.com/LdlS05l.jpg"
+      },
+        {
+        "title":"Resident Evil",
+        "rating":"9/10",
+        "image":"https://i.imgur.com/qmEgAyo.jpg"
+      },
+        {
+        "title":"Halo CE Anniversary",
+        "rating":"7/10",
+        "image":"https://i.imgur.com/hTGTUvu.jpg"
+      },
+         {
+        "title":"Shaq Fu A Legend Reborn",
+        "rating":"1/10",
+        "image":"https://i.imgur.com/hTGTUvu.jpg"
+      },
+        {
+        "title":"Shaq Fu A Legend Reborn",
+        "rating":"1/10",
+        "image":"https://i.imgur.com/hTGTUvu.jpg"
+      },
+        {
+        "title":"Super Mario Party",
+        "rating":"8/10",
+        "image":"https://i.imgur.com/DbMqNkY.jpg"
+      },
+        {
+        "title":"Overcooked",
+        "rating":"7/10",
+        "image":"https://i.imgur.com/76UuMQK.jpg"
+      },
+        {
         "title":"Pokémon: Let's Go, Pikachu!",
         "rating":"8/10",
         "image":"https://i.imgur.com/f7VoKfw.jpg"
