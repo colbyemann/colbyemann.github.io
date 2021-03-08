@@ -1,4 +1,19 @@
 [
+           {
+        "title":"Kona",
+        "rating":"7/10",
+        "image":"https://i.imgur.com/YTb5LQL.jpg"
+      },
+           {
+        "title":"Bridge Constructor",
+        "rating":"2/10",
+        "image":"https://i.imgur.com/7XhQFew.jpg"
+      },
+           {
+        "title":"Dream Daddy",
+        "rating":"5/10",
+        "image":"https://i.imgur.com/7lWPAIB.jpg"
+      },
         {
         "title":"Spinch",
         "rating":"4/10",
